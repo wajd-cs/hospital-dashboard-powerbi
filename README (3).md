@@ -7,7 +7,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-4479A1?style=for-the-badge)
 ![Dashboard](https://img.shields.io/badge/Dashboard-8A2BE2?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
 
 </div>
 
@@ -106,8 +105,8 @@ flowchart LR
 *Note: with only 10 records, this project focuses on demonstrating Power BI techniques and dashboard design rather than statistically significant findings.*
 
 ## Dashboard
+<img width="486" height="275" alt="لقطة شاشة 2026-09-24 171702" src="https://github.com/user-attachments/assets/0dd40cef-c29e-4798-9651-19614395ff70" />
 
-![Dashboard](screenshots/dashboard.png)
 
 ## Skills Demonstrated
 
@@ -124,4 +123,4 @@ flowchart LR
 Computer Science Student | Data Analysis & Software Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajd-al-luhaibi-9194a1396)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wajdalharbics@gmail.com)
+
